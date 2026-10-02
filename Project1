@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Resume</title>
+</head>
+<body>
+
+    <center>
+        <img src="literallyme.jpg" alt="Profile Picture" width="200" height="200">
+        <h1>Linda Joann Villagomez</h1>
+    </center>
+
+    <hr>
+
+    <h1>Objective</h1>
+    <p>
+        I'd like to make it through my college career alive and as well as possible.
+    </p>
+
+    <h1>Qualification</h1>
+    <ul>
+        <li>Bachelor of Science in Cybersecurity - Georgia Gwinnett College (2022)</li>
+        <li>High School Diploma - Discovery High School (2023)</li>
+    </ul>
+
+    <hr>
+
+    <h1>Job Experience</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Company</th>
+                <th>Position</th>
+                <th>Duration</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Crumbl Cookies</td>
+                <td>Bakery associate</td>
+                <td>June 2022 - Something 2023</td>
+            </tr>
+            <tr>
+                <td>Fluffy Fluffy Dessert Cafe</td>
+                <td>Kitchen associate</td>
+                <td>Something 2023 - Something 2024</td>
+            </tr>
+            <tr>
+                <td>The Fresh Market</td>
+                <td>Bakery Associate</td>
+                <td>April 2024 - Present</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+
+    <h1>Projects</h1>
+    <ul>
+        <li>This very same project I'm working on right now... not much else unfortunately, and my brain is too fried to come up with anything else.</li>
+    </ul>
+
+    <h1>Tools / Technologies</h1>
+    <ul>
+        <li>Python, Java</li>
+        <li>Visual Studio Code</li>
+        <li>Powerpoint and Word. Excel on a good day.</li>
+    </ul>
+
+    <hr>
+
+    <h1>Social Media</h1>
+    <ul>
+        <li><a href="https://www.pinterest.com/homefeed/">Pinterest</a></li>
+        <li><a href="https://www.tumblr.com/">Tumblr</a></li>
+        <li><a href="https://www.youtube.com/">YouTube</a></li>
+    </ul>
+
+    <h1>References</h1>
+    <p>
+        References available upon request. Alternatively, you can contact:
+    </p>
+    <ul>
+        <li>John Doe - Manager at Tech Solutions Inc. - johndoe@email.com</li>
+        <li>Jane Doe - Big Boss CEO of Tech Solutions Inc. - janedoe@email.com</li>
+    </ul>
+
+</body>
+</html>
